@@ -1,3 +1,8 @@
 {
-  "accentColor": ""
+  "accentColor": "",
+  "cssTheme": "Blue Topaz",
+  "theme": "moonstone",
+  "interfaceFontFamily": "霞鹜文楷等宽",
+  "textFontFamily": "霞鹜文楷等宽",
+  "monospaceFontFamily": "霞鹜文楷等宽"
 }
